@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68260135105",
+    "firebase_url": "https://simpleecommerceapp.firebaseio.com",
+    "project_id": "simpleecommerceapp",
+    "storage_bucket": "simpleecommerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68260135105:android:bf8ac22c19c9b614c25440",
+        "android_client_info": {
+          "package_name": "com.example.simple_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68260135105-p7ahd3c1om2m13hk6ncaldeoseaqcucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURP5FR6xY65S3wUnpdhZ9LVy0s-2bliM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68260135105-p7ahd3c1om2m13hk6ncaldeoseaqcucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
